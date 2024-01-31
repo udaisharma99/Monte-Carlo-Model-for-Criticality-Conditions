@@ -1,0 +1,3 @@
+# Monte Carlo Model for Criticality Conditions in Neutron Transport Scenarios
+
+This project involves using a Monte Carlo code to estimate the critical size of various objects with respect to the growth of thermal neutron density. It focuses on understanding and minimizing two factors that affect the accuracy of the calculations: statistical fluctuations and transient effects caused by the initial group of neutrons. A short queue minimizes transient effects but has larger statistical fluctuations, while a long queue has smaller statistical fluctuations but takes longer to flush out the initial neutrons. The project aims to find a balance between these two factors to achieve optimal accuracy.
