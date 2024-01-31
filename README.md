@@ -23,8 +23,6 @@ Phase 2:
 8. The critical length for a cylindrical geometry is greater than that of a slab geometry due to the curved trajectories taken by neutrons in a cylinder.
 9. Observing the growth rate of neutrons against the number of trajectories reveals an initial surge followed by a steady decline. This transient behavior is caused by the replacement of the initial set of neutrons by a new set, effectively flushing out the initial group. Once the new set of neutrons takes over, the growth rate stabilizes around zero, indicating an equilibrium state and confirmation of criticality.
 
-<center>
    <img width="704" alt="image" src="https://github.com/udaisharma99/Monte-Carlo-Model-for-Criticality-Conditions/assets/138836370/b2f6ff81-4eff-48a5-a52f-a3dab42a7e61">
-</center>
 
 
